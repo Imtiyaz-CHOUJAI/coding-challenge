@@ -27,6 +27,10 @@ You'll be fetching the sorted JSON data from the Github API (explanation down be
 
 - Bonus points on styling 😉.
 
+## Mock 🍪
+
+![alt text](https://raw.githubusercontent.com/Imtiyaz-CHOUJAI/coding-challenge/master/mock.png)
+
 ## How to get the data from Github 🌍
 
 To get the most starred Github repos created in the last 30 days (relative to 2019-11-22), you'll need to call the following endpoint :
