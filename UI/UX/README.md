@@ -46,7 +46,6 @@ The goal of this assignment is to exercise your UI/UX design abilities. Creativi
 
 ## Instructions
 - Don't hack something quickly, take your time and craft something clean with organized named layers.
-- Write a readable and maintainable code.
 
 ## Questions?
 
