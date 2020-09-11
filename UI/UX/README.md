@@ -45,12 +45,11 @@ The goal of this assignment is to exercise your UI/UX design abilities. Creativi
 - Bonus points for advanced animations.
 
 ## Instructions
-- Don't hack something quickly, take your time and craft something clean, with organized named layers and a clean .
+- Don't hack something quickly, take your time and craft something clean with organized named layers.
 - Write a readable and maintainable code.
 
 ## Questions?
 
 If you have any questions, ask directly via email above or linkedIn
-
 
 Message will self destruct in 3, 2, 1 💥🧨 ! May the force be with you !! 🖖 
