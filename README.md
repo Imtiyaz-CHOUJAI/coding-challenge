@@ -4,3 +4,4 @@
 - [Frontend Developer : HTML, CSS & JavaScript](Frontend-VueJs)
 - [UI/UX Designer](UI/UX)
 - [BI Developer](BI)
+- [DevOps Security Engineer](DevOps)
