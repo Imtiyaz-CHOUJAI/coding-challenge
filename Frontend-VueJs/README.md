@@ -27,7 +27,7 @@ You'll be fetching the sorted JSON data from the Github API (explanation down be
 
 ## Mock 🍪
 
-![alt text](https://raw.githubusercontent.com/Imtiyaz-CHOUJAI/coding-challenge/master/mock.png)
+![alt text](https://raw.githubusercontent.com/Imtiyaz-CHOUJAI/coding-challenge/master/Frontend-VueJs/mock.png)
 
 ## How to get the data from Github 🌍
 
